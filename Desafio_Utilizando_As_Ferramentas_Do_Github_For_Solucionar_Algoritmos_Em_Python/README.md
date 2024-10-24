@@ -1,3 +1,5 @@
+Ivan Wagner.
+
 **Tema do Projeto: Utilizando o GitHub Copilot e GitHub Codespaces para Solucionar Algoritmos em Python**
 
 Vou organizar o conteúdo do projeto em módulos e detalhar melhor cada seção para facilitar a compreensão e a leitura. Aqui está uma versão estruturada do projeto:
